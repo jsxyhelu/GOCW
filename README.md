@@ -1,0 +1,2 @@
+# GOCW
+GreenOpen_Csharp_Opencv_CLR_Wrapper
